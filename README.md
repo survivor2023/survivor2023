@@ -1,4 +1,7 @@
 ### Hi there 👋
+- ⚡ I am good at Java and Python
+- 🔭 I’m currently working on chongqing
+- 🌱 I’m currently learning RocketMQ
 
 <!--
 **survivor2023/survivor2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
