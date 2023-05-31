@@ -1,19 +1,10 @@
-### Hi there 👋
+
+
+### Hi, this is 壹位曾先生  :wave:
 - ⚡ I am good at Java and Python
 - 🔭 I’m currently working on chongqing
 - 🌱 I’m currently learning RocketMQ
+<div align=center>
+ <img src="https://fastly.jsdelivr.net/gh/hakusai22/Algorithm-study/github-contribution-grid-snake.svg"/>
+</div>
 
-<!--
-**survivor2023/survivor2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on chongqing
- 🌱 I’m currently learning RocketMQ
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
